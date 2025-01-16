@@ -172,6 +172,7 @@ if query_button:
                             "3. **Do not include any Markdown formatting** at the beginning and end of the sql query (e.g., ```sql).\n"
                             "4. Use double quotes for any column or table names that contain special characters or spaces.\n"
                             "5. Do not provide any explanations. Just the SQL query code.\n"
+                            "6. ** Remove all Markdown formatting ** at the beginning and end of the sql query (e.g., ```sql).\n"
                         )
                     )
                 )
